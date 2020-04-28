@@ -6,7 +6,7 @@ about:
   content: En esta pagina encontrara las versiones actuales de los instaladores de
     las suite CONTPAQi
   button:
-    enable: true
+    enable: false
     label: know more
     URL: about
 skill:
